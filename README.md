@@ -25,3 +25,10 @@ A simple and clean profile card built using HTML and CSS.
 (Add your deployed link here)
 
 ## 📁 Project Structure
+project/
+│── index.html
+│── style.css
+│── Profile.jpg
+
+## 👤 Author
+Keshav Bhardwaj
